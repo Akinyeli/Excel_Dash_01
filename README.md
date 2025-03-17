@@ -1,4 +1,4 @@
-# Excel_Dash_01
+# Excel_Dashboard_01
 A comprehensive data visualization solution that transforms raw e-commerce metrics into actionable insights. This repository showcases a meticulously crafted Excel dashboard and PowerPoint presentation designed to revolutionize customer experience on the FlexTrade shopping platform.
 Through advanced data analysis techniques, this project delivers clear visibility into critical KPIs including bounce rates, cart abandonment, checkout completion, and conversion metrics—empowering strategic decision-making that drives measurable business growth.
 Developed by a data analyst with expertise in e-commerce analytics, this dashboard serves as the cornerstone for FlexTrade's continuous user experience optimization efforts.
